@@ -20,6 +20,7 @@
 .link-color {
   color: #01a6a4;
 }
+
 a {
   margin: 0;
   padding: 0;
@@ -302,7 +303,6 @@ a {
 .input-area {
   height: 100px;
 }
-
 
 .submit-btn {
   padding: 13px;
